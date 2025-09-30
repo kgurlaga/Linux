@@ -1,2 +1,3 @@
 Pierwszy dzień z Linuxem.
 Dzień 1: nauczyłem się porzuszać po katalogach
+Dzień 2: uprawnienia
