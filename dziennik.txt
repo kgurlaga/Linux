@@ -1,3 +1,4 @@
 Pierwszy dzień z Linuxem.
 Dzień 1: nauczyłem się porzuszać po katalogach
 Dzień 2: uprawnienia
+Dzień 3: blokada IP z Rosji, Argentyny
